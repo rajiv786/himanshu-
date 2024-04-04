@@ -1,0 +1,5 @@
+/* YourComponent.css */
+.custom-select::before {
+	background-color: red !important; /* Remove the background color */
+  }
+  

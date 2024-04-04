@@ -1,0 +1,24 @@
+.custom-textfield .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+	border-color: #319F43; /* Green color for the focus line */
+  }
+  /* In your CSS file or styles */
+/* In your CSS file or styles */
+.image-grid {
+	max-width: 100%; /* Set the desired width for the scrollable container */
+	max-height: 400px; /* Set the desired fixed height */
+	overflow-x: auto; /* Enable horizontal scrolling */
+	white-space: nowrap; /* Prevent items from wrapping to the next line */
+	display: flex;
+	gap: 10px; /* Adjust the gap between items as needed */
+  }
+  
+  .image-container {
+	/* Adjust styles for individual image containers as needed */
+	display: inline-block; /* Ensure items stay in a single row */
+	vertical-align: top; /* Align items vertically at the top */
+  }
+  
+  
+
+  
+  
